@@ -1,0 +1,22 @@
+{
+  "name": "lab2test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria-sison/CMPT315Lab2.git"
+  },
+  "author": "Maria Sison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maria-sison/CMPT315Lab2/issues"
+  },
+  "homepage": "https://github.com/maria-sison/CMPT315Lab2#readme",
+  "dependencies": {
+    "maria.sison-cmpt315lab2": "^1.0.1"
+  }
+}
